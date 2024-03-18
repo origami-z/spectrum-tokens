@@ -23,7 +23,7 @@ tasks:
       - vite
       - build
     deps:
-      - ~:typescript
+      # - ~:typescript
     platform: node
     inputs:
       - "config"
